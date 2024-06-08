@@ -10,7 +10,7 @@ I'm a student passionate about ICT. Here are some things I love:
 ### 📫 Get in touch:
 
 - LinkedIn: https://www.linkedin.com/in/amalya-poojani-149065312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-- Twitter: [Your Twitter Profile URL]
+
 
 ### 📊 GitHub Stats:
 
